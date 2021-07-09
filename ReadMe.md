@@ -1,1 +1,1 @@
-<h3 align="center">A look into vehicle depreciation</h3>
+<p align="center">A look into vehicle depreciation</p>
