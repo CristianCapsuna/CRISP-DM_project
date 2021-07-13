@@ -1,6 +1,6 @@
 # A look into vehicle depreciation
 
-I have written a story on Medium for this project which can be viewed [here]("https://medium.com/@cristian.capsuna/should-you-care-about-car-depreciation-d2e4d92a58fb")
+I have written a story on Medium for this project which can be viewed [here](https://medium.com/@cristian.capsuna/should-you-care-about-car-depreciation-d2e4d92a58fb)
 
 ## Installation
 
