@@ -1,5 +1,7 @@
 # A look into vehicle depreciation
 
+![](https://github.com/CristianCapsuna/Car_depreciation_analysis/blob/main/car-depreciation-visual.jpg)
+
 I have written a story on Medium for this project which can be viewed [here](https://medium.com/@cristian.capsuna/should-you-care-about-car-depreciation-d2e4d92a58fb)
 
 ## Installation
