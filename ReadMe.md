@@ -41,4 +41,3 @@ Question 4 conclusion: When comparing BMW to Jaguar I have found that Jaguar doe
 ## Awknowledgements
 
 I would like to thank the discord scrapy community for helping me iron out some of the issues that came with trying to build a web scraper from scratch. I would also like to thanks the people from StackOverflow from also lending me help when I stumbled on various problems I could not figure out on my own.
-
